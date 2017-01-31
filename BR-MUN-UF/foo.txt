@@ -1,1 +1,30 @@
 git add doc/foo.txt
+
+  
+Brazil	BR-AC	Acre	state
+Brazil	BR-AL	Alagoas	state
+Brazil	BR-AP	Amapá	state
+Brazil	BR-AM	Amazonas	
+Brazil	BR-BA	Bahia	state
+Brazil	BR-CE	Ceará	state
+Brazil	BR-DF	Distrito Federal	federal district	
+Brazil	BR-ES	Espírito Santo	state	
+Brazil	BR-GO	Goiás	state
+Brazil	BR-MA	Maranhão	state	
+Brazil	BR-MT	Mato Grosso	state	
+Brazil	BR-MS	Mato Grosso do Sul	state
+Brazil	BR-MG	Minas Gerais	state		
+Brazil	BR-PR	Paraná	state	
+Brazil	BR-PB	Paraíba	state	
+Brazil	BR-PA	Pará	state	
+Brazil	BR-PE	Pernambuco	state
+Brazil	BR-PI	Piauí	state	
+Brazil	BR-RJ	Rio de Janeiro	state	
+Brazil	BR-RN	Rio Grande do Norte	state	
+Brazil	BR-RS	Rio Grande do Sul	state	
+Brazil	BR-RO	Rondônia	state	
+Brazil	BR-RR	Roraima	state	
+Brazil	BR-SC	Santa Catarina	state
+Brazil	BR-SE	Sergipe	state		
+Brazil	BR-SP	São Paulo	state	
+Brazil	BR-TO	Tocantins	state	
