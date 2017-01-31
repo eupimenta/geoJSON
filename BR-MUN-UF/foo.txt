@@ -1,6 +1,4 @@
-git add doc/foo.txt
-
-  
+ 
 Brazil	BR-AC	Acre	state
 Brazil	BR-AL	Alagoas	state
 Brazil	BR-AP	Amapá	state
@@ -28,3 +26,25 @@ Brazil	BR-SC	Santa Catarina	state
 Brazil	BR-SE	Sergipe	state		
 Brazil	BR-SP	São Paulo	state	
 Brazil	BR-TO	Tocantins	state	
+
+
+
+-Files:
+-Geojson files (.geojson) of brazilian municipalities by federative unit.
+-
+-Properties:
+-"CD_GEOCODM": "GEO CODE"
+-"name": "NAME OF MUNICIPALITY"
+-
+-
+--------------------------------------------------------------------------------------------------------------
+-Arquivos:
+-Arquivos georreferenciados (.geojson) dos municípios brasileiros por UF.
+-
+-Propriedade dos arquivos:
+-"CD_GEOCODM": "CÓDIGO GERREFERENCIADO"
+-"name": "NOME DO MUNICÍPIO"  
+
+
+
+git add doc/foo.txt
